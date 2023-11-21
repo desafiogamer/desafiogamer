@@ -10,13 +10,13 @@
 
 <div style="display: inline_block"><br/>
   <img align='center alt='HTML' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
-  <img align='center' alt='CSS' scr='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
-  <img align='center' alt='JavaScript' scr='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' />
-  <img align='center' alt='Django' scr='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white' />
-  <img align='center' alt='Jquery' scr='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' />
-  <img align='center' alt='Bootstrap' scr='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' />
-  <img align='center' alt='Python' scr='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' />
-  <img align='center' alt="MySQL" scr="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align='center alt='CSS' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
+  <img align='center alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' />
+  <img align='center alt='Django' src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white' />
+  <img align='center alt='Jquery' src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' />
+  <img align='center alt='Bootstrap' src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' />
+  <img align='center alt='Python' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white' />
+  <img align='center alt='MySQL' src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
 </div><br/>
 
 ### Contato
