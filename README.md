@@ -1,4 +1,4 @@
-### olá! eu sou joão vitor 👋
+### olá! sou joão vitor 👋
 
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-4a18b024a/)
 
