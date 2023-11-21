@@ -6,7 +6,7 @@
 
 ![João vitor GitHub status](https://github-readme-stats.vercel.app/api?username=desafiogamer&show_icons=true&theme=radical)
 
-### minhas habilidades
+### Minhas habilidades
 
 <div style="display: inline_block"><br/>
   <img align='center alt='HTML' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
@@ -27,6 +27,6 @@ Whatsapp: 19996793643
 
 ### Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desafiogamer&langs_count=8)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=desafiogamer&langs_count=8)
 
 
