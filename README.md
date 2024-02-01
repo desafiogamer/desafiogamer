@@ -23,7 +23,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaopap1234@gmail.com)
 
-Whatsapp: 19996793643
+Whatsapp: 19999857719
 
 ### Linguagens mais usadas
 
