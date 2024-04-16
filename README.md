@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou joão vitor</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%3EOl%C3%A1%2C+Eu+sou+jo%C3%A3o+vitor%F0%9F%91%8B" alt="Typing SVG" /></a>
 <h3 align="center">Desenvolvedor front-end</h3>
 
 <img align='right' alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -25,4 +25,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=desafiogamer&" alt="desafiogamer" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/desafiogamer/desafiogamer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/desafiogamer/desafiogamer/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/desafiogamer/desafiogamer/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+</picture>
 
