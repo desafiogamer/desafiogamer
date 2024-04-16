@@ -8,9 +8,9 @@
 
 **Contato**
 
-- 👨‍💻 Portfólio: [https://new-portfolio-gamma-sand.vercel.app/](https://new-portfolio-gamma-sand.vercel.app/)
+- 👨‍💻 Portfólio: [Portfólio](https://new-portfolio-gamma-sand.vercel.app/)
 - 📫 Gmail: joaopap1234@gmail.com
-- 📞 Whatsapp: +5519999857719
+- 📞 Whatsapp: [Chat](https://wa.me/5519999857719?text=Ol%C3%A1+tudo+bem)
 
 **Conecte-se comigo**
 <p align="left">
