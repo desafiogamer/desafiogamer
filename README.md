@@ -26,11 +26,14 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desafiogamer&amp;layout=compact&amp;hide_border=true&amp;title_color=00bfbf&amp;text_color=00bfbf&amp;bg_color=0d1117" style="max-width: 100%;">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/desafiogamer/desafiogamer/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/desafiogamer/desafiogamer/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/desafiogamer/desafiogamer/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
-</picture>
+<div align="center">
+  <picture >
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/desafiogamer/desafiogamer/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/desafiogamer/desafiogamer/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/desafiogamer/desafiogamer/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+  </picture>
+</div>
+
 
 <img width="100%" src="https://camo.githubusercontent.com/c66235b8ce5917181ae21327d19696e716710ace0a4495ac4f8c998d825332b3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=120&amp;section=footer" style="max-width: 100%;">
 
