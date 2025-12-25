@@ -8,7 +8,7 @@
 
 **Contato**
 
-- 👨‍💻 Portfólio: [Portfólio](https://www.nasacfullstacks.online/)
+- 👨‍💻 CanaLyze: [Plataforma](https://canalyze.com.br)
 - 📫 Gmail: joaopap1234@gmail.com
 - 📞 Whatsapp: [Chat](https://wa.me/5519999857719?text=Ol%C3%A1+tudo+bem)
 
